@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906780502226",
+    "project_id": "speciality-74990",
+    "storage_bucket": "speciality-74990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906780502226:android:6aef9ada643dca0d63650b",
+        "android_client_info": {
+          "package_name": "com.mobiquest.specialitynew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906780502226-5k58hdogj4hb4cp30v8j8dtgll35mk64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXXmXtBJkG51oN2HVd54w5RBE-VzawHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906780502226-5k58hdogj4hb4cp30v8j8dtgll35mk64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
